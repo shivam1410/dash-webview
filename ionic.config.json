@@ -1,5 +1,5 @@
 {
-  "name": "myApp",
+  "name": "dash-webview",
   "integrations": {
     "capacitor": {
       "enabled": false

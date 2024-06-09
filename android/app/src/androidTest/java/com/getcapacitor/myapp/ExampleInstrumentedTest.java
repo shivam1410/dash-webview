@@ -1,4 +1,4 @@
-package com.getcapacitor.myapp;
+package com.getcapacitor.dash.webview;
 
 import static org.junit.Assert.*;
 
